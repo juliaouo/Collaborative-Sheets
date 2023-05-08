@@ -1,5 +1,5 @@
 # Collaborative Sheets
-
+[detail](https://github.com/juliaouo/Collaborative-Sheets/blob/main/109502543%E6%9E%97%E6%80%A1%E8%90%B1.pdf)
 ## Feature
 1. Able to create users
 2. Let users can create their new sheet
